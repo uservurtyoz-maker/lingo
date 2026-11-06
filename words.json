@@ -39666,5 +39666,337 @@
 {
 "en": "configurations",
 "ru": "конфигурации"
+},
+{
+"en": "wardrobe",
+"ru": "гардероб"
+},
+{
+"en": "curtain",
+"ru": "штора"
+},
+{
+"en": "scissors",
+"ru": "ножницы"
+},
+{
+"en": "zipper",
+"ru": "молния"
+},
+{
+"en": "glove",
+"ru": "перчатка"
+},
+{
+"en": "scarf",
+"ru": "шарф"
+},
+{
+"en": "backpack",
+"ru": "рюкзак"
+},
+{
+"en": "suitcase",
+"ru": "чемодан"
+},
+{
+"en": "souvenir",
+"ru": "сувенир"
+},
+{
+"en": "glacier",
+"ru": "ледник"
+},
+{
+"en": "waterfall",
+"ru": "водопад"
+},
+{
+"en": "volcano",
+"ru": "вулкан"
+},
+{
+"en": "meadow",
+"ru": "луг"
+},
+{
+"en": "puddle",
+"ru": "лужа"
+},
+{
+"en": "blizzard",
+"ru": "метель"
+},
+{
+"en": "drought",
+"ru": "засуха"
+},
+{
+"en": "mechanic",
+"ru": "механик"
+},
+{
+"en": "plumber",
+"ru": "сантехник"
+},
+{
+"en": "carpenter",
+"ru": "плотник"
+},
+{
+"en": "cashier",
+"ru": "кассир"
+},
+{
+"en": "waiter",
+"ru": "официант"
+},
+{
+"en": "dentist",
+"ru": "стоматолог"
+},
+{
+"en": "balcony",
+"ru": "балкон"
+},
+{
+"en": "attic",
+"ru": "чердак"
+},
+{
+"en": "corridor",
+"ru": "коридор"
+},
+{
+"en": "elevator",
+"ru": "лифт"
+},
+{
+"en": "staircase",
+"ru": "лестница"
+},
+{
+"en": "towel",
+"ru": "полотенце"
+},
+{
+"en": "shampoo",
+"ru": "шампунь"
+},
+{
+"en": "toothbrush",
+"ru": "зубная щётка"
+},
+{
+"en": "razor",
+"ru": "бритва"
+},
+{
+"en": "comb",
+"ru": "расчёска"
+},
+{
+"en": "broom",
+"ru": "метла"
+},
+{
+"en": "bucket",
+"ru": "ведро"
+},
+{
+"en": "sponge",
+"ru": "губка"
+},
+{
+"en": "lantern",
+"ru": "фонарь"
+},
+{
+"en": "eraser",
+"ru": "ластик"
+},
+{
+"en": "whistle",
+"ru": "свисток"
+},
+{
+"en": "trumpet",
+"ru": "труба"
+},
+{
+"en": "lighthouse",
+"ru": "маяк"
+},
+{
+"en": "compass",
+"ru": "компас"
+},
+{
+"en": "microscope",
+"ru": "микроскоп"
+},
+{
+"en": "astronaut",
+"ru": "астронавт"
+},
+{
+"en": "comet",
+"ru": "комета"
+},
+{
+"en": "meteor",
+"ru": "метеор"
+},
+{
+"en": "asteroid",
+"ru": "астероид"
+},
+{
+"en": "iceberg",
+"ru": "айсберг"
+},
+{
+"en": "seashell",
+"ru": "ракушка"
+},
+{
+"en": "crab",
+"ru": "краб"
+},
+{
+"en": "octopus",
+"ru": "осьминог"
+},
+{
+"en": "seahorse",
+"ru": "морской конёк"
+},
+{
+"en": "kangaroo",
+"ru": "кенгуру"
+},
+{
+"en": "giraffe",
+"ru": "жираф"
+},
+{
+"en": "zebra",
+"ru": "зебра"
+},
+{
+"en": "crocodile",
+"ru": "крокодил"
+},
+{
+"en": "parrot",
+"ru": "попугай"
+},
+{
+"en": "owl",
+"ru": "сова"
+},
+{
+"en": "squirrel",
+"ru": "белка"
+},
+{
+"en": "hedgehog",
+"ru": "ёж"
+},
+{
+"en": "ladybug",
+"ru": "божья коровка"
+},
+{
+"en": "carrot",
+"ru": "морковь"
+},
+{
+"en": "cucumber",
+"ru": "огурец"
+},
+{
+"en": "pumpkin",
+"ru": "тыква"
+},
+{
+"en": "mushroom",
+"ru": "гриб"
+},
+{
+"en": "pineapple",
+"ru": "ананас"
+},
+{
+"en": "coconut",
+"ru": "кокос"
+},
+{
+"en": "watermelon",
+"ru": "арбуз"
+},
+{
+"en": "peach",
+"ru": "персик"
+},
+{
+"en": "plum",
+"ru": "слива"
+},
+{
+"en": "apricot",
+"ru": "абрикос"
+},
+{
+"en": "pancake",
+"ru": "блин"
+},
+{
+"en": "omelette",
+"ru": "омлет"
+},
+{
+"en": "dumpling",
+"ru": "пельмень"
+},
+{
+"en": "noodle",
+"ru": "лапша"
+},
+{
+"en": "burger",
+"ru": "бургер"
+},
+{
+"en": "porridge",
+"ru": "каша"
+},
+{
+"en": "yogurt",
+"ru": "йогурт"
+},
+{
+"en": "muffin",
+"ru": "маффин"
+},
+{
+"en": "biscuit",
+"ru": "печенье"
+},
+{
+"en": "caramel",
+"ru": "карамель"
+},
+{
+"en": "lemonade",
+"ru": "лимонад"
+},
+{
+"en": "cocoa",
+"ru": "какао"
+},
+{
+"en": "crane",
+"ru": "журавль"
 }
 ]
